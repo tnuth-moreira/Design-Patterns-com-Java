@@ -1,0 +1,6 @@
+[submodule "Design Patterns com Java/lab-padroes-projeto-java"]
+	path = Design Patterns com Java/lab-padroes-projeto-java
+	url = https://github.com/tnuth-moreira/lab-padroes-projeto-java
+[submodule "Design Patterns com Java/lab-padroes-projeto-spring"]
+	path = Design Patterns com Java/lab-padroes-projeto-spring
+	url = https://github.com/tnuth-moreira/lab-padroes-projeto-spring
