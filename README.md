@@ -1,1 +1,1 @@
-# Design-Patterns-com-Java
+# Design-Patterns-com-Java (GoF)
